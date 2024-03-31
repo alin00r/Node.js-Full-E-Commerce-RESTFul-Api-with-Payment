@@ -5,7 +5,7 @@
         "description": "",
         "version": "1.0.0"
     },
-    "host": "localhost:8000",
+    "host": "https://e-shtery-app.onrender.com",
     "basePath": "/",
     "schemes": ["http"],
     "paths": {
