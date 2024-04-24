@@ -2,7 +2,7 @@
 
 ###
 
-Node.js-Full-E-Commerce-RESTFul-App-with- Cash and Online Payment
+Node.js-Full-E-Commerce-RESTFul-API-with- Cash and Online Payment
 
 ## Technologies
 
