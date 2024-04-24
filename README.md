@@ -150,7 +150,7 @@ Node.js-Full-E-Commerce-RESTFul-App-with- Cash and Online Payment
 `@access Admin`
 | Route | Path | Description | Body | Params |
 | ------ | ----------------------------- | ------------------------------------- | ---------------------------------------------------| -------- |
-| POST | | Create Product |`title`,`slug`,`quantity`, | none |
+| POST | `/api/v1/products/:id`| Create Product |`title`,`slug`,`quantity`, | none |
 | | | |`sold`,`price`,`priceAfterDiscount`, | |
 | | | |`description`,`category`,`imageCover`, | |
 | | | |`ratingsAverage`,`ratingsQuantity`,`subcategories` | | | GET | `/api/v1/products` | Get All Products | none | none |
